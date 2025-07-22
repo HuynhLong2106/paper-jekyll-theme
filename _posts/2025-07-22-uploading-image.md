@@ -17,7 +17,7 @@ Let's work !
 ![test_kitten_from_internet](https://i.ytimg.com/vi/2q36y9DIfc4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtSaSmap5La5mZI64U8nK7Wr6kFw)
 This is how to upload the image from the internet!
 
-![test_kitten](/assets/images/test_kitten.jpeg)
+![test_kitten](https://github.com/HuynhLong2106/paper-jekyll-theme/blob/master/assets/images/cat.jpg?raw=true)
 
 This is how to upload from your assets
 
